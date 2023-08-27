@@ -399,6 +399,7 @@ body {
     display: flex;
     height: 5vh;
     align-items: center;
+    background-color:white;
     position:fixed;
     bottom:0;
     width:100%;
